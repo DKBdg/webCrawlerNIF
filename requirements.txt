@@ -1,3 +1,0 @@
-django-background-tasks
-openpyxl
-docx
