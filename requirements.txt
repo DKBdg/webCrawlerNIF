@@ -1,4 +1,3 @@
 django
 newspaper3k
-beautifulsoup4
-requests
+googletrans==3.1.0a0
